@@ -1,184 +1,184 @@
-Rank,Country,IQ
-1,Hong Kong,108
-1,Singapore,108
-2,South Korea,106
-3,Japan,105
-3,China,105
-4,Taiwan,104
-5,Italy,102
-6,Iceland,101
-6,Mongolia,101
-6,Switzerland,101
-7,Austria,100
-7,Luxembourg,100
-7,Netherlands,100
-7,Norway,100
-7,United Kingdom,100
-8,Belgium,99
-8,Canada,99
-8,Estonia,99
-8,Finland,99
-8,Germany,99
-8,Poland,99
-8,Sweden,99
-9,Andorra,98
-9,Australia,98
-9,Czechia,98
-9,Denmark,98
-9,France,98
-9,Hungary,98
-9,Latvia,98
-9,Spain,98
-9,United States,98
-10,Belarus,97
-10,Malta,97
-10,Russia,97
-10,Ukraine,97
-11,Moldova,96
-11,Slovakia,96
-11,Slovenia,96
-11,Uruguay,96
-12,Israel,95
-12,Portugal,95
-13,Armenia,94
-13,Georgia,94
-13,Kazakhstan,94
-13,Romania,94
-13,Vietnam,94
-14,Argentina,93
-14,Bulgaria,93
-15,Greece,92
-15,Ireland,92
-15,Malaysia,92
-16,Brunei,91
-16,Cambodia,91
-16,Cyprus,91
-16,Republic of Macedonia,91
-16,Lithuania,91
-16,Sierra Leone,91
-16,Thailand,91
-17,Albania,90
-17,Bosnia and Herzegovina,90
-17,Chile,90
-17,Croatia,90
-17,Kyrgyzstan,90
-17,Turkey,90
-18,Costa Rica,89
-18,Laos,89
-18,Mauritius,89
-18,Serbia,89
-18,Suriname,89
-19,Ecuador,88
-19,Mexico,88
-19,Samoa,88
-20,Azerbaijan,87
-20,Bolivia,87
-20,Nauru,87
-20,Guyana,87
-20,Indonesia,87
-20,Iraq,87
-20,Myanmar,87
-20,Tajikistan,87
-20,Turkmenistan,87
-20,Uzbekistan,87
-21,Kuwait,86
-21,Philippines,86
-21,Seychelles,86
-21,Tonga,86
-22,Cuba,85
-22,Eritrea,85
-22,Fiji,85
-22,Kiribati,85
-22,Peru,85
-22,Trinidad and Tobago,85
-22,Yemen,85
-23,Afghanistan,84
-23,The Bahamas,84
-23,Belize,84
-23,Colombia,84
-23,Iran,84
-23,Jordan,84
-23,Marshall Islands,84
-23,Micronesia,84
-23,Morocco,84
-23,Nigeria,84
-23,Pakistan,84
-23,Panama,84
-23,Paraguay,84
-23,Saudi Arabia,84
-23,Solomon Islands,84
-23,Uganda,84
-23,United Arab Emirates,84
-23,Vanuatu,84
-23,Venezuela,84
-24,Algeria,83
-24,Bahrain,83
-24,Libya,83
-24,Oman,83
-24,Papua New Guinea,83
-24,Syria,83
-24,Tunisia,83
-25,Bangladesh,82
-25,Dominican Republic,82
-25,India,82
-25,Lebanon,82
-25,Madagascar,82
-25,Zimbabwe,82
-26,Egypt,81
-26,Honduras,81
-26,Maldives,81
-26,Nicaragua,81
-27,Barbados,80
-27,Bhutan,80
-27,El Salvador,80
-27,Kenya,80
-28,Guatemala,79
-28,Sri Lanka,79
-28,Zambia,79
-29,Democratic Republic of the Congo,78
-29,Nepal,78
-29,Qatar,78
-30,Comoros,77
-30,South Africa,77
-31,Cabo Verde,76
-31,Congo,76
-31,Mauritania,76
-31,Senegal,76
-32,Mali,74
-32,Namibia,74
-33,Ghana,73
-34,Tanzania,72
-35,Central African Republic,71
-35,Jamaica,71
-35,Saint Vincent and the Grenadines,71
-35,Sudan,71
-36,Antigua and Barbuda,70
-36,Benin,70
-36,Botswana,70
-36,Rwanda,70
-36,Togo,70
-37,Burundi,69
-37,Côte d'Ivoire,69
-37,Ethiopia,69
-37,Malawi,69
-37,Niger,69
-38,Angola,68
-38,Burkina Faso,68
-38,Chad,68
-38,Djibouti,68
-38,Somalia,68
-38,Swaziland,68
-39,Dominica,67
-39,Guinea,67
-39,Guinea-Bissau,67
-39,Haiti,67
-39,Lesotho,67
-39,Liberia,67
-39,Saint Kitts and Nevis,67
-39,São Tomé and Príncipe,67
-40,Gambia,66
-41,Cameroon,64
-41,Gabon,64
-41,Mozambique,64
-42,Saint Lucia,62
-43,Equatorial Guinea,59
+,Rank,Country,IQ
+0,1,.css-y8aess{background-repeat:no-repeat;-webkit-background-size:100%;background-size:100%;}Hong Kong,108
+1,1,Singapore,108
+2,2,South Korea,106
+3,3,Japan,105
+4,3,China,105
+5,4,Taiwan,104
+6,5,Italy,102
+7,6,Iceland,101
+8,6,Mongolia,101
+9,6,Switzerland,101
+10,7,Austria,100
+11,7,Luxembourg,100
+12,7,Netherlands,100
+13,7,Norway,100
+14,7,United Kingdom,100
+15,8,Belgium,99
+16,8,Canada,99
+17,8,Estonia,99
+18,8,Finland,99
+19,8,Germany,99
+20,8,Poland,99
+21,8,Sweden,99
+22,9,Andorra,98
+23,9,Australia,98
+24,9,Czechia,98
+25,9,Denmark,98
+26,9,France,98
+27,9,Hungary,98
+28,9,Latvia,98
+29,9,Spain,98
+30,9,United States,98
+31,10,Belarus,97
+32,10,Malta,97
+33,10,Russia,97
+34,10,Ukraine,97
+35,11,Moldova,96
+36,11,Slovakia,96
+37,11,Slovenia,96
+38,11,Uruguay,96
+39,12,Israel,95
+40,12,Portugal,95
+41,13,Armenia,94
+42,13,Georgia,94
+43,13,Kazakhstan,94
+44,13,Romania,94
+45,13,Vietnam,94
+46,14,Argentina,93
+47,14,Bulgaria,93
+48,15,Greece,92
+49,15,Ireland,92
+50,15,Malaysia,92
+51,16,Brunei,91
+52,16,Cambodia,91
+53,16,Cyprus,91
+54,16,Republic of Macedonia,91
+55,16,Lithuania,91
+56,16,Sierra Leone,91
+57,16,Thailand,91
+58,17,Albania,90
+59,17,Bosnia and Herzegovina,90
+60,17,Chile,90
+61,17,Croatia,90
+62,17,Kyrgyzstan,90
+63,17,Turkey,90
+64,18,Costa Rica,89
+65,18,Laos,89
+66,18,Mauritius,89
+67,18,Serbia,89
+68,18,Suriname,89
+69,19,Ecuador,88
+70,19,Mexico,88
+71,19,Samoa,88
+72,20,Azerbaijan,87
+73,20,Bolivia,87
+74,20,Nauru,87
+75,20,Guyana,87
+76,20,Indonesia,87
+77,20,Iraq,87
+78,20,Myanmar,87
+79,20,Tajikistan,87
+80,20,Turkmenistan,87
+81,20,Uzbekistan,87
+82,21,Kuwait,86
+83,21,Philippines,86
+84,21,Seychelles,86
+85,21,Tonga,86
+86,22,Cuba,85
+87,22,Eritrea,85
+88,22,Fiji,85
+89,22,Kiribati,85
+90,22,Peru,85
+91,22,Trinidad and Tobago,85
+92,22,Yemen,85
+93,23,Afghanistan,84
+94,23,The Bahamas,84
+95,23,Belize,84
+96,23,Colombia,84
+97,23,Iran,84
+98,23,Jordan,84
+99,23,Marshall Islands,84
+100,23,Micronesia,84
+101,23,Morocco,84
+102,23,Nigeria,84
+103,23,Pakistan,84
+104,23,Panama,84
+105,23,Paraguay,84
+106,23,Saudi Arabia,84
+107,23,Solomon Islands,84
+108,23,Uganda,84
+109,23,United Arab Emirates,84
+110,23,Vanuatu,84
+111,23,Venezuela,84
+112,24,Algeria,83
+113,24,Bahrain,83
+114,24,Libya,83
+115,24,Oman,83
+116,24,Papua New Guinea,83
+117,24,Syria,83
+118,24,Tunisia,83
+119,25,Bangladesh,82
+120,25,Dominican Republic,82
+121,25,India,82
+122,25,Lebanon,82
+123,25,Madagascar,82
+124,25,Zimbabwe,82
+125,26,Egypt,81
+126,26,Honduras,81
+127,26,Maldives,81
+128,26,Nicaragua,81
+129,27,Barbados,80
+130,27,Bhutan,80
+131,27,El Salvador,80
+132,27,Kenya,80
+133,28,Guatemala,79
+134,28,Sri Lanka,79
+135,28,Zambia,79
+136,29,Democratic Republic of the Congo,78
+137,29,Nepal,78
+138,29,Qatar,78
+139,30,Comoros,77
+140,30,South Africa,77
+141,31,Cabo Verde,76
+142,31,Congo,76
+143,31,Mauritania,76
+144,31,Senegal,76
+145,32,Mali,74
+146,32,Namibia,74
+147,33,Ghana,73
+148,34,Tanzania,72
+149,35,Central African Republic,71
+150,35,Jamaica,71
+151,35,Saint Vincent and the Grenadines,71
+152,35,Sudan,71
+153,36,Antigua and Barbuda,70
+154,36,Benin,70
+155,36,Botswana,70
+156,36,Rwanda,70
+157,36,Togo,70
+158,37,Burundi,69
+159,37,Côte d'Ivoire,69
+160,37,Ethiopia,69
+161,37,Malawi,69
+162,37,Niger,69
+163,38,Angola,68
+164,38,Burkina Faso,68
+165,38,Chad,68
+166,38,Djibouti,68
+167,38,Somalia,68
+168,38,Swaziland,68
+169,39,Dominica,67
+170,39,Guinea,67
+171,39,Guinea-Bissau,67
+172,39,Haiti,67
+173,39,Lesotho,67
+174,39,Liberia,67
+175,39,Saint Kitts and Nevis,67
+176,39,São Tomé and Príncipe,67
+177,40,Gambia,66
+178,41,Cameroon,64
+179,41,Gabon,64
+180,41,Mozambique,64
+181,42,Saint Lucia,62
+182,43,Equatorial Guinea,59
