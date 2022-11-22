@@ -1,101 +1,201 @@
-ranking_date,rank,name,title,country,rating,games,birth_year
-27-07-00,1,"Kasparov, Garry",g,RUS,2849,35,1963
-27-07-00,2,"Kramnik, Vladimir",g,RUS,2770,23,1975
-27-07-00,3,"Anand, Viswanathan",g,IND,2762,23,1969
-27-07-00,4,"Morozevich, Alexander",g,RUS,2756,28,1977
-27-07-00,5,"Adams, Michael",g,ENG,2755,38,1971
-27-07-00,6,"Shirov, Alexei",g,ESP,2746,33,1972
-27-07-00,7,"Leko, Peter",g,HUN,2743,29,1979
-27-07-00,8,"Ivanchuk, Vassily",g,UKR,2719,10,1969
-27-07-00,9,"Topalov, Veselin",g,BUL,2707,11,1975
-27-07-00,10,"Krasenkow, Michal",g,POL,2702,61,1963
-27-07-00,11,"Bareev, Evgeny",g,RUS,2702,17,1966
-27-07-00,12,"Karpov, Anatoly",g,RUS,2699,11,1951
-27-07-00,13,"Kasimdzhanov, Rustam",g,UZB,2690,44,1979
-27-07-00,14,"Svidler, Peter",g,RUS,2689,9,1976
-27-07-00,15,"Gelfand, Boris",g,ISR,2681,27,1968
-27-07-00,16,"Short, Nigel D.",g,ENG,2677,44,1965
-27-07-00,17,"Smirin, Ilia",g,ISR,2677,25,1968
-27-07-00,18,"Dreev, Alexey",g,RUS,2676,26,1969
-27-07-00,19,"Azmaiparashvili, Zurab",g,GEO,2673,0,1960
-27-07-00,20,"Ye, Jiangchuan",g,CHN,2670,45,1960
-27-07-00,21,"Rublevsky, Sergei",g,RUS,2670,24,1974
-27-07-00,22,"Xu, Jun",g,CHN,2668,75,1962
-27-07-00,23,"Almasi, Zoltan",g,HUN,2668,25,1976
-27-07-00,24,"Gurevich, Mikhail",g,BEL,2667,50,1959
-27-07-00,25,"Khalifman, Alexander",g,RUS,2667,35,1966
-27-07-00,26,"Movsesian, Sergei",g,CZE,2666,48,1978
-27-07-00,27,"Georgiev, Kiril",g,BUL,2661,22,1965
-27-07-00,28,"Akopian, Vladimir",g,ARM,2660,20,1971
-27-07-00,29,"Peng, Xiaomin",g,CHN,2657,76,1973
-27-07-00,30,"Nikolic, Predrag",g,BIH,2657,24,1960
-27-07-00,31,"Tkachiev, Vladislav",g,FRA,2657,23,1973
-27-07-00,32,"Polgar, Judit (GM)",g,HUN,2656,39,1976
-27-07-00,33,"Beliavsky, Alexander G",g,SLO,2654,77,1953
-27-07-00,34,"Piket, Jeroen",g,NED,2649,45,1969
-27-07-00,35,"Lautier, Joel",g,FRA,2648,26,1973
-27-07-00,36,"Seirawan, Yasser",g,USA,2647,17,1960
-27-07-00,37,"Fedorov, Alexei",g,BLR,2646,20,1972
-27-07-00,38,"Salov, Valery",g,RUS,2644,0,1964
-27-07-00,39,"Van Wely, Loek",g,NED,2643,49,1972
-27-07-00,40,"Gulko, Boris F",g,USA,2643,9,1947
-27-07-00,41,"Nenashev, Alexander",g,UZB,2642,54,1962
-27-07-00,42,"Bologan, Viktor",g,MDA,2641,51,1971
-27-07-00,43,"Andersson, Ulf",g,SWE,2641,21,1951
-27-07-00,44,"Hodgson, Julian M.",g,ENG,2640,21,1963
-27-07-00,45,"Shipov, Sergei",g,RUS,2640,0,1966
-27-07-00,46,"Timman, Jan H",g,NED,2639,54,1951
-27-07-00,47,"Zhang, Zhong",g,CHN,2636,66,1978
-27-07-00,48,"Zvjaginsev, Vadim",g,RUS,2634,39,1976
-27-07-00,49,"Khenkin, Igor",g,GER,2633,43,1968
-27-07-00,50,"Milos, Gilberto",g,BRA,2633,39,1963
-27-07-00,51,"Ponomariov, Ruslan",g,UKR,2630,7,1983
-27-07-00,52,"Sadler, Matthew",g,ENG,2628,10,1974
-27-07-00,53,"Sakaev, Konstantin",g,RUS,2627,43,1974
-27-07-00,54,"Ehlvest, Jaan",g,EST,2627,42,1962
-27-07-00,55,"Onischuk, Alexander",g,UKR,2627,24,1975
-27-07-00,56,"Kharlov, Andrei",g,RUS,2627,22,1968
-27-07-00,57,"Milov, Vadim",g,SUI,2626,24,1972
-27-07-00,58,"Avrukh, Boris",g,ISR,2625,31,1978
-27-07-00,59,"Kaidanov, Gregory S",g,USA,2624,36,1959
-27-07-00,60,"Vaganian, Rafael A",g,ARM,2623,35,1951
-27-07-00,61,"Speelman, Jonathan S.",g,ENG,2623,25,1956
-27-07-00,62,"Tregubov, Pavel V.",g,RUS,2620,67,1971
-27-07-00,63,"Korchnoi, Viktor",g,SUI,2620,51,1931
-27-07-00,64,"Korneev, Oleg",g,RUS,2619,0,1969
-27-07-00,65,"Huebner, Robert Dr.",g,GER,2615,24,1948
-27-07-00,66,"Hansen, Curt",g,DEN,2613,32,1964
-27-07-00,67,"Bacrot, Etienne",g,FRA,2613,22,1983
-27-07-00,68,"Hracek, Zbynek",g,CZE,2612,21,1970
-27-07-00,69,"Kozul, Zdenko",g,CRO,2611,38,1966
-27-07-00,70,"Novikov, Igor A",g,UKR,2611,33,1962
-27-07-00,71,"Sokolov, Ivan",g,BIH,2611,33,1968
-27-07-00,72,"Psakhis, Lev",g,ISR,2611,21,1958
-27-07-00,73,"Jussupow, Artur",g,GER,2610,23,1960
-27-07-00,74,"Landa, Konstantin",g,RUS,2610,17,1972
-27-07-00,75,"Sutovsky, Emil",g,ISR,2609,47,1977
-27-07-00,76,"Tiviakov, Sergei",g,NED,2608,40,1973
-27-07-00,77,"Ftacnik, Lubomir",g,SVK,2608,29,1957
-27-07-00,78,"Dolmatov, Sergey",g,RUS,2608,28,1959
-27-07-00,79,"Morovic Fernandez, Ivan",g,CRO,2608,13,1963
-27-07-00,80,"Magomedov, Magaram",g,RUS,2608,12,1966
-27-07-00,81,"Grischuk, Alexander",g,RUS,2606,36,1983
-27-07-00,82,"Dautov, Rustem",g,GER,2606,23,1965
-27-07-00,83,"Malakhov, Vladimir",g,RUS,2605,22,1980
-27-07-00,84,"Smagin, Sergey",g,RUS,2605,8,1958
-27-07-00,85,"Granda Zuniga, Julio E",g,PER,2605,0,1967
-27-07-00,86,"Wang, Zili",g,CHN,2603,65,1968
-27-07-00,87,"Shabalov, Alexander",g,USA,2601,67,1967
-27-07-00,88,"Wu, Wenjin",g,CHN,2601,63,1976
-27-07-00,89,"Dorfman, Josif D",g,FRA,2600,28,1952
-27-07-00,90,"Baklan, Vladimir",g,UKR,2599,49,1978
-27-07-00,91,"Giorgadze, Giorgi",g,GEO,2599,0,1964
-27-07-00,92,"Vladimirov, Evgeny",g,KAZ,2598,71,1957
-27-07-00,93,"Lputian, Smbat G",g,ARM,2598,22,1958
-27-07-00,94,"Najer, Evgeniy",g,RUS,2597,42,1977
-27-07-00,95,"Yermolinsky, Alex",g,USA,2596,44,1958
-27-07-00,96,"Kuzmin, Alexey",g,RUS,2596,22,1963
-27-07-00,97,"Lutz, Christopher",g,GER,2595,35,1971
-27-07-00,98,"Minasian, Artashes",g,ARM,2595,29,1967
-27-07-00,99,"Iordachescu, Viorel",g,MDA,2594,79,1977
-27-07-00,100,"Fominyh, Alexander",g,RUS,2594,45,1959
+ranking_date,rank,name,title,country,country abbrev.,rating,games,birth_year
+27-07-00,1,"Kasparov, Garry",g,Russia,RUS,2849,35,1963
+27-07-00,2,"Kramnik, Vladimir",g,Russia,RUS,2770,23,1975
+27-07-00,3,"Anand, Viswanathan",g,India,IND,2762,23,1969
+27-07-00,4,"Morozevich, Alexander",g,Russia,RUS,2756,28,1977
+27-07-00,5,"Adams, Michael",g,United Kingdom,ENG,2755,38,1971
+27-07-00,6,"Shirov, Alexei",g,Spain,ESP,2746,33,1972
+27-07-00,7,"Leko, Peter",g,Hungary,HUN,2743,29,1979
+27-07-00,8,"Ivanchuk, Vassily",g,Ukraine,UKR,2719,10,1969
+27-07-00,9,"Topalov, Veselin",g,Bulgaria,BUL,2707,11,1975
+27-07-00,10,"Krasenkow, Michal",g,Poland,POL,2702,61,1963
+27-07-00,11,"Bareev, Evgeny",g,Russia,RUS,2702,17,1966
+27-07-00,12,"Karpov, Anatoly",g,Russia,RUS,2699,11,1951
+27-07-00,13,"Kasimdzhanov, Rustam",g,Uzbekistan,UZB,2690,44,1979
+27-07-00,14,"Svidler, Peter",g,Russia,RUS,2689,9,1976
+27-07-00,15,"Gelfand, Boris",g,Israel,ISR,2681,27,1968
+27-07-00,16,"Short, Nigel D.",g,United Kingdom,ENG,2677,44,1965
+27-07-00,17,"Smirin, Ilia",g,Israel,ISR,2677,25,1968
+27-07-00,18,"Dreev, Alexey",g,Russia,RUS,2676,26,1969
+27-07-00,19,"Azmaiparashvili, Zurab",g,Georgia,GEO,2673,0,1960
+27-07-00,20,"Ye, Jiangchuan",g,China,CHN,2670,45,1960
+27-07-00,21,"Rublevsky, Sergei",g,Russia,RUS,2670,24,1974
+27-07-00,22,"Xu, Jun",g,China,CHN,2668,75,1962
+27-07-00,23,"Almasi, Zoltan",g,Hungary,HUN,2668,25,1976
+27-07-00,24,"Gurevich, Mikhail",g,Belgium,BEL,2667,50,1959
+27-07-00,25,"Khalifman, Alexander",g,Russia,RUS,2667,35,1966
+27-07-00,26,"Movsesian, Sergei",g,Czechia,CZE,2666,48,1978
+27-07-00,27,"Georgiev, Kiril",g,Bulgaria,BUL,2661,22,1965
+27-07-00,28,"Akopian, Vladimir",g,Armenia,ARM,2660,20,1971
+27-07-00,29,"Peng, Xiaomin",g,China,CHN,2657,76,1973
+27-07-00,30,"Nikolic, Predrag",g,Bosnia and Herzegovina,BIH,2657,24,1960
+27-07-00,31,"Tkachiev, Vladislav",g,France,FRA,2657,23,1973
+27-07-00,32,"Polgar, Judit (GM)",g,Hungary,HUN,2656,39,1976
+27-07-00,33,"Beliavsky, Alexander G",g,Slovenia,SLO,2654,77,1953
+27-07-00,34,"Piket, Jeroen",g,Netherlands,NED,2649,45,1969
+27-07-00,35,"Lautier, Joel",g,France,FRA,2648,26,1973
+27-07-00,36,"Seirawan, Yasser",g,United States,USA,2647,17,1960
+27-07-00,37,"Fedorov, Alexei",g,Belarus,BLR,2646,20,1972
+27-07-00,38,"Salov, Valery",g,Russia,RUS,2644,0,1964
+27-07-00,39,"Van Wely, Loek",g,Netherlands,NED,2643,49,1972
+27-07-00,40,"Gulko, Boris F",g,United States,USA,2643,9,1947
+27-07-00,41,"Nenashev, Alexander",g,Uzbekistan,UZB,2642,54,1962
+27-07-00,42,"Bologan, Viktor",g,Moldova,MDA,2641,51,1971
+27-07-00,43,"Andersson, Ulf",g,Sweden,SWE,2641,21,1951
+27-07-00,44,"Hodgson, Julian M.",g,United Kingdom,ENG,2640,21,1963
+27-07-00,45,"Shipov, Sergei",g,Russia,RUS,2640,0,1966
+27-07-00,46,"Timman, Jan H",g,Netherlands,NED,2639,54,1951
+27-07-00,47,"Zhang, Zhong",g,China,CHN,2636,66,1978
+27-07-00,48,"Zvjaginsev, Vadim",g,Russia,RUS,2634,39,1976
+27-07-00,49,"Khenkin, Igor",g,Germany,GER,2633,43,1968
+27-07-00,50,"Milos, Gilberto",g,Brazil,BRA,2633,39,1963
+27-07-00,51,"Ponomariov, Ruslan",g,Ukraine,UKR,2630,7,1983
+27-07-00,52,"Sadler, Matthew",g,United Kingdom,ENG,2628,10,1974
+27-07-00,53,"Sakaev, Konstantin",g,Russia,RUS,2627,43,1974
+27-07-00,54,"Ehlvest, Jaan",g,Estonia,EST,2627,42,1962
+27-07-00,55,"Onischuk, Alexander",g,Ukraine,UKR,2627,24,1975
+27-07-00,56,"Kharlov, Andrei",g,Russia,RUS,2627,22,1968
+27-07-00,57,"Milov, Vadim",g,Switzerland,SUI,2626,24,1972
+27-07-00,58,"Avrukh, Boris",g,Israel,ISR,2625,31,1978
+27-07-00,59,"Kaidanov, Gregory S",g,United States,USA,2624,36,1959
+27-07-00,60,"Vaganian, Rafael A",g,Armenia,ARM,2623,35,1951
+27-07-00,61,"Speelman, Jonathan S.",g,United Kingdom,ENG,2623,25,1956
+27-07-00,62,"Tregubov, Pavel V.",g,Russia,RUS,2620,67,1971
+27-07-00,63,"Korchnoi, Viktor",g,Switzerland,SUI,2620,51,1931
+27-07-00,64,"Korneev, Oleg",g,Russia,RUS,2619,0,1969
+27-07-00,65,"Huebner, Robert Dr.",g,Germany,GER,2615,24,1948
+27-07-00,66,"Hansen, Curt",g,Denmark,DEN,2613,32,1964
+27-07-00,67,"Bacrot, Etienne",g,France,FRA,2613,22,1983
+27-07-00,68,"Hracek, Zbynek",g,Czechia,CZE,2612,21,1970
+27-07-00,69,"Kozul, Zdenko",g,Croatia,CRO,2611,38,1966
+27-07-00,70,"Novikov, Igor A",g,Ukraine,UKR,2611,33,1962
+27-07-00,71,"Sokolov, Ivan",g,Bosnia and Herzegovina,BIH,2611,33,1968
+27-07-00,72,"Psakhis, Lev",g,Israel,ISR,2611,21,1958
+27-07-00,73,"Jussupow, Artur",g,Germany,GER,2610,23,1960
+27-07-00,74,"Landa, Konstantin",g,Russia,RUS,2610,17,1972
+27-07-00,75,"Sutovsky, Emil",g,Israel,ISR,2609,47,1977
+27-07-00,76,"Tiviakov, Sergei",g,Netherlands,NED,2608,40,1973
+27-07-00,77,"Ftacnik, Lubomir",g,Slovakia,SVK,2608,29,1957
+27-07-00,78,"Dolmatov, Sergey",g,Russia,RUS,2608,28,1959
+27-07-00,79,"Morovic Fernandez, Ivan",g,Croatia,CRO,2608,13,1963
+27-07-00,80,"Magomedov, Magaram",g,Russia,RUS,2608,12,1966
+27-07-00,81,"Grischuk, Alexander",g,Russia,RUS,2606,36,1983
+27-07-00,82,"Dautov, Rustem",g,Germany,GER,2606,23,1965
+27-07-00,83,"Malakhov, Vladimir",g,Russia,RUS,2605,22,1980
+27-07-00,84,"Smagin, Sergey",g,Russia,RUS,2605,8,1958
+27-07-00,85,"Granda Zuniga, Julio E",g,Peru,PER,2605,0,1967
+27-07-00,86,"Wang, Zili",g,China,CHN,2603,65,1968
+27-07-00,87,"Shabalov, Alexander",g,United States,USA,2601,67,1967
+27-07-00,88,"Wu, Wenjin",g,China,CHN,2601,63,1976
+27-07-00,89,"Dorfman, Josif D",g,France,FRA,2600,28,1952
+27-07-00,90,"Baklan, Vladimir",g,Ukraine,UKR,2599,49,1978
+27-07-00,91,"Giorgadze, Giorgi",g,Georgia,GEO,2599,0,1964
+27-07-00,92,"Vladimirov, Evgeny",g,Kazakhstan,KAZ,2598,71,1957
+27-07-00,93,"Lputian, Smbat G",g,Armenia,ARM,2598,22,1958
+27-07-00,94,"Najer, Evgeniy",g,Russia,RUS,2597,42,1977
+27-07-00,95,"Yermolinsky, Alex",g,United States,USA,2596,44,1958
+27-07-00,96,"Kuzmin, Alexey",g,Russia,RUS,2596,22,1963
+27-07-00,97,"Lutz, Christopher",g,Germany,GER,2595,35,1971
+27-07-00,98,"Minasian, Artashes",g,Armenia,ARM,2595,29,1967
+27-07-00,99,"Iordachescu, Viorel",g,Moldova,MDA,2594,79,1977
+27-07-00,100,"Fominyh, Alexander",g,Russia,RUS,2594,45,1959
+27-10-00,1,"Kasparov, Garry",g,Russia,RUS,2849,0,1963
+27-10-00,2,"Anand, Viswanathan",g,India,IND,2774,19,1969
+27-10-00,3,"Kramnik, Vladimir",g,Russia,RUS,2772,8,1975
+27-10-00,4,"Adams, Michael",g,United Kingdom,ENG,2754,8,1971
+27-10-00,5,"Leko, Peter",g,Hungary,HUN,2748,8,1979
+27-10-00,6,"Shirov, Alexei",g,Spain,ESP,2746,0,1972
+27-10-00,7,"Morozevich, Alexander",g,Russia,RUS,2734,5,1977
+27-10-00,8,"Ivanchuk, Vassily",g,Ukraine,UKR,2716,7,1969
+27-10-00,9,"Topalov, Veselin",g,Bulgaria,BUL,2707,0,1975
+27-10-00,10,"Krasenkow, Michal",g,Poland,POL,2702,0,1963
+27-10-00,11,"Karpov, Anatoly",g,Russia,RUS,2699,0,1951
+27-10-00,12,"Svidler, Peter",g,Russia,RUS,2695,14,1976
+27-10-00,13,"Bareev, Evgeny",g,Russia,RUS,2694,19,1966
+27-10-00,14,"Kasimdzhanov, Rustam",g,Uzbekistan,UZB,2690,0,1979
+27-10-00,15,"Short, Nigel D.",g,United Kingdom,ENG,2687,14,1965
+27-10-00,16,"Gelfand, Boris",g,Israel,ISR,2683,9,1968
+27-10-00,17,"Ye, Jiangchuan",g,China,CHN,2682,16,1960
+27-10-00,18,"Dreev, Alexey",g,Russia,RUS,2681,14,1969
+27-10-00,19,"Azmaiparashvili, Zurab",g,Georgia,GEO,2678,7,1960
+27-10-00,20,"Georgiev, Kiril",g,Bulgaria,BUL,2674,12,1965
+27-10-00,21,"Smirin, Ilia",g,Israel,ISR,2674,4,1968
+27-10-00,22,"Gurevich, Mikhail",g,Belgium,BEL,2673,14,1959
+27-10-00,23,"Akopian, Vladimir",g,Armenia,ARM,2671,8,1971
+27-10-00,24,"Almasi, Zoltan",g,Hungary,HUN,2668,0,1976
+27-10-00,25,"Movsesian, Sergei",g,Czechia,CZE,2666,7,1978
+27-10-00,26,"Xu, Jun",g,China,CHN,2665,26,1962
+27-10-00,27,"Tkachiev, Vladislav",g,France,FRA,2659,5,1973
+27-10-00,28,"Khalifman, Alexander",g,Russia,RUS,2658,13,1966
+27-10-00,29,"Nikolic, Predrag",g,Bosnia and Herzegovina,BIH,2657,0,1960
+27-10-00,30,"Polgar, Judit (GM)",wg,Hungary,HUN,2656,0,1976
+27-10-00,31,"Peng, Xiaomin",g,China,CHN,2655,9,1973
+27-10-00,32,"Rublevsky, Sergei",g,Russia,RUS,2653,18,1974
+27-10-00,33,"Bologan, Viktor",g,Moldova,MDA,2651,9,1971
+27-10-00,34,"Lautier, Joel",g,France,FRA,2648,0,1973
+27-10-00,35,"Onischuk, Alexander",g,Ukraine,UKR,2647,18,1975
+27-10-00,36,"Seirawan, Yasser",g,United States,USA,2647,0,1960
+27-10-00,37,"Nenashev, Alexander",g,Uzbekistan,UZB,2645,6,1962
+27-10-00,38,"Milos, Gilberto",g,Brazil,BRA,2644,19,1963
+27-10-00,39,"Van Wely, Loek",g,Netherlands,NED,2643,0,1972
+27-10-00,40,"Gulko, Boris F",g,United States,USA,2642,19,1947
+27-10-00,41,"Andersson, Ulf",g,Sweden,SWE,2641,0,1951
+27-10-00,42,"Piket, Jeroen",g,Netherlands,NED,2640,8,1969
+27-10-00,43,"Shipov, Sergei",g,Russia,RUS,2640,0,1966
+27-10-00,44,"Fedorov, Alexei",g,Belarus,BLR,2639,5,1972
+27-10-00,45,"Timman, Jan H",g,Netherlands,NED,2639,0,1951
+27-10-00,46,"Zvjaginsev, Vadim",g,Russia,RUS,2635,25,1976
+27-10-00,47,"Lastin, Alexander",g,Russia,RUS,2633,38,1976
+27-10-00,48,"Hodgson, Julian M.",g,United Kingdom,ENG,2633,19,1963
+27-10-00,49,"Khenkin, Igor",g,Germany,GER,2633,0,1968
+27-10-00,50,"Korchnoi, Viktor",g,Switzerland,SUI,2632,10,1931
+27-10-00,51,"Beliavsky, Alexander G",g,Slovenia,SLO,2629,16,1953
+27-10-00,52,"Ehlvest, Jaan",g,Estonia,EST,2628,41,1962
+27-10-00,53,"Sadler, Matthew",g,United Kingdom,ENG,2628,0,1974
+27-10-00,54,"Kharlov, Andrei",g,Russia,RUS,2627,11,1968
+27-10-00,55,"Vaganian, Rafael A",g,Armenia,ARM,2627,9,1951
+27-10-00,56,"Milov, Vadim",g,Switzerland,SUI,2626,0,1972
+27-10-00,57,"Avrukh, Boris",g,Israel,ISR,2625,0,1978
+27-10-00,58,"Psakhis, Lev",g,Israel,ISR,2624,9,1958
+27-10-00,59,"Ponomariov, Ruslan",g,Ukraine,UKR,2624,5,1983
+27-10-00,60,"Vladimirov, Evgeny",g,Kazakhstan,KAZ,2621,23,1957
+27-10-00,61,"Sakaev, Konstantin",g,Russia,RUS,2620,21,1974
+27-10-00,62,"Hansen, Curt",g,Denmark,DEN,2620,13,1964
+27-10-00,63,"Kaidanov, Gregory S",g,United States,USA,2619,7,1959
+27-10-00,64,"Korneev, Oleg",g,Russia,RUS,2619,0,1969
+27-10-00,65,"Kozul, Zdenko",g,Croatia,CRO,2616,9,1966
+27-10-00,66,"Minasian, Artashes",g,Armenia,ARM,2614,16,1967
+27-10-00,67,"Smagin, Sergey",g,Russia,RUS,2613,11,1958
+27-10-00,68,"Bacrot, Etienne",g,France,FRA,2613,0,1983
+27-10-00,69,"Speelman, Jonathan S.",g,United Kingdom,ENG,2612,21,1956
+27-10-00,70,"Baklan, Vladimir",g,Ukraine,UKR,2611,9,1978
+27-10-00,71,"Sokolov, Ivan",g,Bosnia and Herzegovina,BIH,2611,0,1968
+27-10-00,72,"Tregubov, Pavel V.",g,Russia,RUS,2610,16,1971
+27-10-00,73,"Lputian, Smbat G",g,Armenia,ARM,2610,9,1958
+27-10-00,74,"Jussupow, Artur",g,Germany,GER,2610,0,1960
+27-10-00,75,"Landa, Konstantin",g,Russia,RUS,2610,0,1972
+27-10-00,76,"Sutovsky, Emil",g,Israel,ISR,2609,0,1977
+27-10-00,77,"Ftacnik, Lubomir",g,Slovakia,SVK,2608,0,1957
+27-10-00,78,"Magomedov, Magaram",g,Russia,RUS,2608,0,1966
+27-10-00,79,"Morovic Fernandez, Ivan",g,Croatia,CRO,2608,0,1963
+27-10-00,80,"Zhang, Zhong",g,China,CHN,2607,21,1978
+27-10-00,81,"Tiviakov, Sergei",g,Netherlands,NED,2606,18,1973
+27-10-00,82,"Huebner, Robert Dr.",g,Germany,GER,2606,8,1948
+27-10-00,83,"Malakhov, Vladimir",g,Russia,RUS,2605,0,1980
+27-10-00,84,"Hracek, Zbynek",g,Czechia,CZE,2604,41,1970
+27-10-00,85,"Dautov, Rustem",g,Germany,GER,2603,10,1965
+27-10-00,86,"Wu, Wenjin",g,China,CHN,2602,12,1976
+27-10-00,87,"Romanishin, Oleg M",g,Ukraine,UKR,2602,9,1952
+27-10-00,88,"Grischuk, Alexander",g,Russia,RUS,2601,20,1983
+27-10-00,89,"Filippov, Valerij",g,Russia,RUS,2601,9,1975
+27-10-00,90,"Novikov, Igor A",g,Ukraine,UKR,2600,12,1962
+27-10-00,91,"Dolmatov, Sergey",g,Russia,RUS,2600,11,1959
+27-10-00,92,"Dorfman, Josif D",g,France,FRA,2600,0,1952
+27-10-00,93,"Shabalov, Alexander",g,United States,USA,2599,19,1967
+27-10-00,94,"Giorgadze, Giorgi",g,Georgia,GEO,2599,0,1964
+27-10-00,95,"Kuzmin, Alexey",g,Russia,RUS,2598,9,1963
+27-10-00,96,"Aleksandrov, Aleksej",g,Belarus,BLR,2597,5,1973
+27-10-00,97,"Lutz, Christopher",g,Germany,GER,2595,0,1971
+27-10-00,98,"Sasikiran, Krishnan",g,India,IND,2594,23,1981
+27-10-00,99,"Iordachescu, Viorel",g,Moldova,MDA,2594,0,1977
+27-10-00,100,"Rozentalis, Eduardas",g,Lithuania,LTU,2593,17,1963
