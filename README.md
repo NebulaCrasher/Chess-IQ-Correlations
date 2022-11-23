@@ -27,5 +27,15 @@ We had to drop the duplicate rank columns since that interfered with the next st
 
 ### Step 3 Loading
 
-By using the create_engine method from SQLalchemy we were able to open a connection using SQLite and from there added in our dataframe which we could then iterate over and further filter down if interested.
+By using the create_engine method from SQLalchemy we were able to open a connection using SQLite (a relational database) and from there added in our dataframe which we could then iterate over and further filter down if interested.
 
+### Findings
+
+Despite being 10th in the world IQ chart Russia placed 25 players into the top 100 list while China despite being 3rd in IQ only placed 6 comparatively. This does not indicate a strong relationship between average IQ and amount of players in the Fide historical top 100 list. However, it is worth noting that all top 100 players were from countries that were ranked 25 or above in the IQ standings.
+
+### Sources
+https://www.kaggle.com/datasets/odartey/top-chess-players
+
+https://brainstats.com/en/average-iq
+
+https://laendercode.net/en/3-letter-list.html 
