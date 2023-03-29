@@ -8,8 +8,7 @@ HTML tables were extracted using pandas, reformatted and then exported as csv fi
 
 ### Step 2 Transforming data
 
-We merged all data to one Pandas DataFrame with columns starting with IQ by Country and Country Abbreviations and then finally merging on the Country abbreviations in the FIDE historical dataset. This transformation served as a filtering function as it essentially allowed us to only look at the countries that existed both in the Chess
-players' list and the IQ by country list. 
+All data was merged into a singular Pandas DataFrame. This transformation served as a filtering function as it essentially allowed only countries that were referenced in both preliminary data sets. The following is an overview of the column header names and their meanings.
 
 Country_name - full name of country
 IQ Average   - the average iq of the country
@@ -22,11 +21,11 @@ birth year   - birth year of a chess player
 
 ### Step 3 Loading Data
 
-We had to drop the duplicate rank columns since that interfered with the next step. We opted to keep the Chess players position in the list of the historical Chess ratings. After that, sorting the data by those Chess rankings helped put into perspective the quality of players put out per country. 
+There were duplicate rank columns that needed to be dropped as they were causing issues with the data reading. After dropping one of the rank columns, chess players were arranged by rating  by country. Sorting the data by those Chess rankings helped put into perspective the quality of players put out per country. 
 
 ### Step 3 Loading
 
-By using the create_engine method from SQLalchemy we were able to open a connection using SQLite (a relational database) and from there added in our dataframe which we could then iterate over and further filter down if interested.
+By using the create_engine method from SQLalchemy we were able to open a connection using SQLite (a relational database) and from there import our dataframe which we could then iterate over and further filter down if interested.
 
 ### Findings
 
