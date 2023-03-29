@@ -3,8 +3,7 @@ Is there a relationship between Chess rating and IQ? To determine this, our grou
 
 ### Step 1 Extracting data
 
-This step was made possible by your friendly neighborhood teaching faculty. Shoutout to them for teaching us some hieroglyphs that made reading the HTML tables easy.
-The HTML tables were read using pandas and then exported as csv files once they were relatively clean and then further had their headers changed once in csv form.
+HTML tables were extracted using pandas, reformatted and then exported as csv files once the data were relatively clean. More descriptive headers were added once the data was in csv form.
 
 
 ### Step 2 Transforming data
